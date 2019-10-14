@@ -1,0 +1,26 @@
+c:\users\lenovo pc\documents\visual studio 2015\Projects\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\bin\Debug\Group_Project.xml
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\obj\Debug\Group_Project.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\obj\Debug\Group_Project.Game_Slider.resources
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.resources
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\obj\Debug\Group_Project.vbproj.GenerateResource.Cache
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\obj\Debug\Group_Project.xml
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\obj\Debug\Group_Project.xml
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\bin\Debug\Group_Project.xml
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\obj\Debug\Group_Project.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\obj\Debug\Group_Project.Game_Slider.resources
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.resources
+C:\Users\Lenovo PC\Desktop\Group_Project\Group_Project\obj\Debug\Group_Project.vbproj.GenerateResource.Cache
+C:\Users\Lenovo PC\Desktop\Accomplished Project\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\Lenovo PC\Desktop\Accomplished Project\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\Lenovo PC\Desktop\Accomplished Project\Group_Project\Group_Project\obj\Debug\Group_Project.xml
+C:\Users\Lenovo PC\Desktop\Accomplished Project\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
